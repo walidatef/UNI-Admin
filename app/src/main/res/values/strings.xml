@@ -1,0 +1,215 @@
+<resources>
+    <string name="app_name">UNI Admin</string>
+
+    <string-array name="grades">
+        <item>grade one</item>
+        <item>grade two</item>
+        <item>grade three</item>
+        <item>grade four</item>
+    </string-array>
+
+    <string-array name="department">
+        <item>CS</item>
+        <item>IS</item>
+        <item>IT</item>
+        <item>BIO</item>
+        <item>SOFT</item>
+        <item>GROUP1</item>
+        <item>GROUP2</item>
+        <item>GROUP3</item>
+        <item>GROUP4</item>
+        <item>GROUP5</item>
+    </string-array>
+    <string-array name="Section">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>S4</item>
+        <item>S5</item>
+        <item>S6</item>
+        <item>S7</item>
+        <item>S8</item>
+    </string-array>
+    <string-array name="departement2">
+        <item>any departement</item>
+        <item>CS</item>
+        <item>IS</item>
+        <item>IT</item>
+        <item>BIO</item>
+        <item>SOFT</item>
+        <item>GROUP1</item>
+        <item>GROUP2</item>
+        <item>GROUP3</item>
+        <item>GROUP4</item>
+        <item>GROUP5</item>
+    </string-array>
+    <string-array name="Section2">
+        <item>any section</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>S4</item>
+        <item>S5</item>
+        <item>S6</item>
+        <item>S7</item>
+        <item>S8</item>
+    </string-array>
+
+
+    <string-array name="Day">
+        <!--todo make the days-->
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+    </string-array>
+
+
+    <string name="SignUp">SignUp</string>
+    <string name="Sign_Up">Sign up</string>
+
+    <string name="Name">Name</string>
+    <string name="Email">Academic Email</string>
+    <string name="National_ID">National ID</string>
+    <string name="Collage_ID">Collage ID</string>
+    <string name="Password">Password</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="have_acc">Already have an account?</string>
+    <string name="SignIn">Sign In</string>
+    <string name="SignInUnderLine"><u>Sign in</u></string>
+    <string name="SignUpUnderLine"><u>Sign Up</u></string>
+
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+
+
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">The password must be an uppercase letter and a number</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="close">Close</string>
+    <string name="doNotHaveAccount">Don\'t have any account?</string>
+    <string name="haveAccount">Already have any account?</string>
+    <string name="choose_grade">Choose grade</string>
+    <string name="choose_department">Choose department</string>
+    <string name="choose_section">Choose section</string>
+    <string name="next_slider">Next</string>
+    <string name="back">Back</string>
+    <string name="admin">Admin</string>
+    <string name="uni">UNI</string>
+    <string name="profile">Profile</string>
+
+
+    <string-array name="who_array">
+        <item>Student</item>
+        <item>Professor</item>
+        <item>Assistant</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Job_title">Job Title</string>
+    <string name="scan">Scan</string>
+    <string name="scan_subTitle">The QR code to take attendance</string>
+    <string name="hall_and_lab">Hall</string>
+    <string name="wait">wait ..</string>
+    <string name="attendance_succeeded">Attendance succeeded</string>
+    <string name="ok">OK</string>
+    <string name="attendance_failed">There was a problem, try again</string>
+    <string name="comments">Comments</string>
+    <string name="id_test">\@fci125</string>
+    <string name="point">.</string>
+    <string name="department">Department</string>
+    <string name="Faculty">Faculty</string>
+    <string name="password_encoding">*******</string>
+    <string name="phone">Phone</string>
+    <string name="city">City</string>
+    <string name="register">Register</string>
+    <string name="Attend">Attend</string>
+    <string name="not_running">Not running</string>
+    <string name="running">Running</string>
+    <string name="lab">Lab</string>
+    <string name="to">To ></string>
+    <string name="comment">Comment here..</string>
+    <string name="zero_comments">0</string>
+    <string name="grade">Grade</string>
+    <string name="dot">></string>
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="Schedule">Schedule</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="author">Author</string>
+    <string name="passwordCheck">Make sure to write the 14 number of the national id</string>
+    <string name="passwordNotMatch">Password not match!</string>
+    <string name="invalidEmail">Email format is not valid</string>
+    <string name="alldata">All data are required</string>
+    <string name="notFoundUser">No user found, have to register.</string>
+    <string name="notPickImage">Make sure to choose picture</string>
+    <string name="waitingPermission">Waiting.. \n for permission to log in from the college</string>
+    <string name="checkUpdate">Close app and start again to check for update</string>
+    <string name="view_all_courses">View all courses</string>
+    <string name="enterCourseCode">Enter course code</string>
+    <string name="enterCourseName">Enter course name</string>
+    <string name="chooseGrade">Choose grade</string>
+    <string name="chooseProfessor">Choose professor</string>
+    <string name="chooseAssistant">Choose assistant</string>
+    <string name="addCourse">Add course</string>
+    <string name="add">Add</string>
+    <string name="prof">prof.</string>
+    <string name="eng">eng.</string>
+    <string name="choose_day">Choose day</string>
+    <string name="choose_course">Choose course</string>
+    <string name="choose_how_teach">How will teach?</string>
+    <string name="enterPlace">Enter place..</string>
+    <string name="lecture">Lecture</string>
+    <string name="section">Section</string>
+    <string name="addLecture">Add lecture</string>
+    <string name="addSection">Add section</string>
+    <string name="permissions">Permissions</string>
+    <string name="schedule">schedule</string>
+    <string name="addSchedule">Add schedule</string>
+    <string name="createPost">Create post</string>
+
+    <string name="filter">Filter</string>
+    <string name="showResult">Show result</string>
+    <string name="filterById">filter by student Id</string>
+    <string name="studentId">student id</string>
+    <string name="makeSureStudentId">Make sure to type the student ID</string>
+
+    <string name="information">Information</string>
+    <string name="faculty">Faculty</string>
+    <string name="gpa">GPA</string>
+    <string name="courses">Courses</string>
+    <string name="error_message_in_profile_screen">"Error on loading user data please refresh the current screen "</string>
+    <string name="log_out">Log out</string>
+    <string name="name">name:</string>
+    <string name="Grade">Grade:</string>
+    <string name="Department">Department:</string>
+    <string name="Section">Section:</string>
+    <string name="remove">Remove</string>
+
+    <string name="logout">Log out</string>
+
+    <string name="view_permissions">View Permissions</string>
+    <string name="add_student">Do You want to add this Student?</string>
+    <string name="remove_student">Are You sure to remove this Student?</string>
+    <string name="permission_hint">Permission Message</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_message">Permission Message:</string>
+    <string name="general_post">Post to General</string>
+    <string name="create_post">Create Post</string>
+    <string name="post_description">post description</string>
+    <string name="post_course">Post Course</string>
+    <string name="post_section">Post Section</string>
+    <string name="search_by_student_id">Search by Student ID</string>
+    <string name="search">Search</string>
+    <string name="NoCommentsYet">No comments yet</string>
+
+
+</resources>
